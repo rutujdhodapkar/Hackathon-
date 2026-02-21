@@ -7,7 +7,7 @@ from streamlit_folium import st_folium
 
 # ================= API KEYS =================
 SARVAM_API_KEY = "sk_9in4zpct_G6oDTi41kwrA0I6FAkWQLKUr"
-OPENROUTER_API_KEY = ""
+OPENROUTER_API_KEY = "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"
 
 # ================= PAGE CONFIG =================
 st.set_page_config(
