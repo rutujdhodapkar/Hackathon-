@@ -6,8 +6,8 @@ import folium
 from streamlit_folium import st_folium
 
 # ================= API KEYS =================
-SARVAM_API_KEY = "YOUR_SARVAM_KEY"
-OPENROUTER_API_KEY = "YOUR_OPENROUTER_KEY"
+SARVAM_API_KEY = "sk_9in4zpct_G6oDTi41kwrA0I6FAkWQLKUr"
+OPENROUTER_API_KEY = ""
 
 # ================= PAGE CONFIG =================
 st.set_page_config(
